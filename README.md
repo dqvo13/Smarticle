@@ -8,3 +8,5 @@ If readers answer correctly, they'll be awarded tokens that can be minted into N
 These tokens, as a currency, can then be used to donate to charities and/or funds related to the articles provided.
 Further, readers would be encouraged to continue reading and learning through the distribution of streak-related NFTs, to signify their passion for knowledge. 
 This way, we can encourage everyone to learn, while also benefitting the world, one article at a time. 
+
+Created in collaboration with Tanmay Thakral, Howard Ly, and Kevin Wong. 
